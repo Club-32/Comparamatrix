@@ -1,0 +1,44 @@
+ 
+  table{
+        table-layout: fixed;
+        overflow-x:auto;
+      
+      }
+      table, th, td {
+        border: 1px solid black;
+      }
+
+      .tableScroll          { overflow-y: auto; height: 70vh; }
+.tableScroll thead th { position: sticky; top: 0; }
+
+
+th     { background:#fff; }
+      
+      td {
+        padding: 0.5em;
+      }
+         
+         .blue {
+              background-color: #a4c2f4;
+          }
+          
+          .purple {
+              background-color: #d5a6bd;
+          }
+          
+      
+          .yellow {
+              background-color: #ffe599;
+          }
+          
+          .green {
+              background-color: #93c47d;
+          }
+          
+          .red {
+              background-color: #e06666;
+          }
+      
+          .grey {
+              background-color: #ebe4e4;
+          }
